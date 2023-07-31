@@ -1,5 +1,5 @@
 #--> Author's Info
-Author    = 'Dapunta Khurayra X'
+Author    = 'Umair Khurayra X'
 Facebook  = 'Facebook.com/Dapunta.Khurayra.X'
 Instagram = 'Instagram.com/Dapunta.Ratya'
 Whatsapp  = '082245780524'
